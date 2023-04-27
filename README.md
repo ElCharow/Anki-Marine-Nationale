@@ -10,4 +10,4 @@ Anki est un logiciel gratuit qui utilise un algorithme scientifiquement prouvé 
 
 # **Tutoriel :**
 
-Si vous voulez l'utiliser télécharger juste Anki set ensuite en haut à gauche du logiciel cliquer sur "fichier" puis "importer" et vous mettez le fichier "Anki_Marine_Nationale.colpkg" téléchargeable sur ce git.
+Si vous voulez l'utiliser télécharger juste [Anki](https://apps.ankiweb.net) et ensuite en haut à gauche du logiciel cliquer sur "fichier" puis "importer" et vous mettez le fichier "Anki_Marine_Nationale.colpkg" téléchargeable sur ce git.
