@@ -1,4 +1,4 @@
-# Anki-Marine-Nationale
+# Anki Marine Nationale
 
 Bonjour / Bonsoir,
 
@@ -8,6 +8,6 @@ Ce fichier sera mis-à-jour avec le temps pour rajouter davantage de contenu et 
 
 Anki est un logiciel gratuit qui utilise un algorithme scientifiquement prouvé pour apprendre et mémoriser des choses efficacement avec des flashcards en nous faisant les consulté quotidiennement avec beaucoup d'autres paramètres pour favoriser l'acquisition des connaissances. Voici le lien de leurs site officiel pour télécharger le logiciel : https://apps.ankiweb.net
 
-**TUTORIEL :**
+# **TUTORIEL :**
 
 Si vous voulez l'utiliser télécharger juste Anki set ensuite en haut à gauche du logiciel cliquer sur "fichier" puis "importer" et vous mettez le fichier "Anki_Marine_Nationale.colpkg" téléchargeable sur ce git.
